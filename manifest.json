@@ -1,0 +1,7523 @@
+{
+ "source": "polishedcrystal",
+ "rom": "Pokemon Polished Crystal (v3.2.3).gbc",
+ "platform": "gbc",
+ "method": "Published Polished Crystal v3.2.3 source tree; PNG art copied losslessly with neutral grayscale palette preserved.",
+ "credits": "Rangi42 and contributors",
+ "assets": [
+  {
+   "type": "pokemon",
+   "slug": "aerodactyl",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/aerodactyl",
+   "frames": 8,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "aipom",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/aipom",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ambipom",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/ambipom",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "annihilape",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/annihilape",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "arbok_agatha",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/arbok_agatha",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "arbok_ariana",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/arbok_ariana",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "arbok_johto",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/arbok_johto",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "arbok_kanto",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/arbok_kanto",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "arbok_koga",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/arbok_koga",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "arbok_orange",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/arbok_orange",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "arcanine_hisuian",
+   "dex": 59,
+   "form": "hisuian",
+   "path": "pokemon/arcanine_hisuian",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ariados",
+   "dex": 168,
+   "form": null,
+   "path": "pokemon/ariados",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "articuno_galarian",
+   "dex": 144,
+   "form": "galarian",
+   "path": "pokemon/articuno_galarian",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "azumarill",
+   "dex": 184,
+   "form": null,
+   "path": "pokemon/azumarill",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "azurill",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/azurill",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "bayleef",
+   "dex": 153,
+   "form": null,
+   "path": "pokemon/bayleef",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "beedrill",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/beedrill",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "bellossom",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/bellossom",
+   "frames": 10,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "blastoise",
+   "dex": 9,
+   "form": null,
+   "path": "pokemon/blastoise",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "blissey",
+   "dex": 242,
+   "form": null,
+   "path": "pokemon/blissey",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "bonsly",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/bonsly",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "bulbasaur",
+   "dex": 1,
+   "form": null,
+   "path": "pokemon/bulbasaur",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "butterfree",
+   "dex": 12,
+   "form": null,
+   "path": "pokemon/butterfree",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "caterpie",
+   "dex": 10,
+   "form": null,
+   "path": "pokemon/caterpie",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "celebi",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/celebi",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "chansey",
+   "dex": 113,
+   "form": null,
+   "path": "pokemon/chansey",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "charizard",
+   "dex": 6,
+   "form": null,
+   "path": "pokemon/charizard",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "charmander",
+   "dex": 4,
+   "form": null,
+   "path": "pokemon/charmander",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "charmeleon",
+   "dex": 5,
+   "form": null,
+   "path": "pokemon/charmeleon",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "chikorita",
+   "dex": 152,
+   "form": null,
+   "path": "pokemon/chikorita",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "chinchou",
+   "dex": 170,
+   "form": null,
+   "path": "pokemon/chinchou",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "clefable",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/clefable",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "clefairy",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/clefairy",
+   "frames": 5,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "cleffa",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/cleffa",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "clodsire",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/clodsire",
+   "frames": 16,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "corsola_galarian",
+   "dex": null,
+   "form": "galarian",
+   "path": "pokemon/corsola_galarian",
+   "frames": 12,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "corsola_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/corsola_plain",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "crobat",
+   "dex": 169,
+   "form": null,
+   "path": "pokemon/crobat",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "croconaw",
+   "dex": 159,
+   "form": null,
+   "path": "pokemon/croconaw",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "cursola",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/cursola",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "cyndaquil",
+   "dex": 155,
+   "form": null,
+   "path": "pokemon/cyndaquil",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "diglett_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/diglett_alolan",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dodrio",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/dodrio",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "donphan",
+   "dex": 232,
+   "form": null,
+   "path": "pokemon/donphan",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dragonair",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/dragonair",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dragonite",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/dragonite",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dratini",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/dratini",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "drowzee",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/drowzee",
+   "frames": 12,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dudunsparce_three_segment",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/dudunsparce_three_segment",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dudunsparce_two_segment",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/dudunsparce_two_segment",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dugtrio_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/dugtrio_alolan",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dugtrio_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/dugtrio_plain",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "dunsparce",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/dunsparce",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ekans",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/ekans",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "electabuzz",
+   "dex": 125,
+   "form": null,
+   "path": "pokemon/electabuzz",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "electivire",
+   "dex": 466,
+   "form": null,
+   "path": "pokemon/electivire",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "electrode_hisuian",
+   "dex": null,
+   "form": "hisuian",
+   "path": "pokemon/electrode_hisuian",
+   "frames": 14,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "elekid",
+   "dex": 239,
+   "form": null,
+   "path": "pokemon/elekid",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "entei",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/entei",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "espeon",
+   "dex": 196,
+   "form": null,
+   "path": "pokemon/espeon",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "exeggcute",
+   "dex": 102,
+   "form": null,
+   "path": "pokemon/exeggcute",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "exeggutor_alolan",
+   "dex": 103,
+   "form": "alolan",
+   "path": "pokemon/exeggutor_alolan",
+   "frames": 14,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "exeggutor_plain",
+   "dex": 103,
+   "form": "plain",
+   "path": "pokemon/exeggutor_plain",
+   "frames": 5,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "farfetch_d_galarian",
+   "dex": null,
+   "form": "galarian",
+   "path": "pokemon/farfetch_d_galarian",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "farfetch_d_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/farfetch_d_plain",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "farigiraf",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/farigiraf",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "fearow",
+   "dex": 22,
+   "form": null,
+   "path": "pokemon/fearow",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "feraligatr",
+   "dex": 160,
+   "form": null,
+   "path": "pokemon/feraligatr",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "flareon",
+   "dex": 136,
+   "form": null,
+   "path": "pokemon/flareon",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "forretress",
+   "dex": 205,
+   "form": null,
+   "path": "pokemon/forretress",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "furret",
+   "dex": 162,
+   "form": null,
+   "path": "pokemon/furret",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "gastly",
+   "dex": 92,
+   "form": null,
+   "path": "pokemon/gastly",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "gengar",
+   "dex": 94,
+   "form": null,
+   "path": "pokemon/gengar",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "geodude_alolan",
+   "dex": 74,
+   "form": "alolan",
+   "path": "pokemon/geodude_alolan",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "geodude_plain",
+   "dex": 74,
+   "form": "plain",
+   "path": "pokemon/geodude_plain",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "glaceon",
+   "dex": 471,
+   "form": null,
+   "path": "pokemon/glaceon",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "gligar",
+   "dex": 207,
+   "form": null,
+   "path": "pokemon/gligar",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "gliscor",
+   "dex": 472,
+   "form": null,
+   "path": "pokemon/gliscor",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "gloom",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/gloom",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "golbat",
+   "dex": 42,
+   "form": null,
+   "path": "pokemon/golbat",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "golduck",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/golduck",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "golem_alolan",
+   "dex": 76,
+   "form": "alolan",
+   "path": "pokemon/golem_alolan",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "golem_plain",
+   "dex": 76,
+   "form": "plain",
+   "path": "pokemon/golem_plain",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "granbull",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/granbull",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "graveler_alolan",
+   "dex": 75,
+   "form": "alolan",
+   "path": "pokemon/graveler_alolan",
+   "frames": 12,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "grimer_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/grimer_alolan",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "grimer_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/grimer_plain",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "growlithe_hisuian",
+   "dex": 58,
+   "form": "hisuian",
+   "path": "pokemon/growlithe_hisuian",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "gyarados_red",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/gyarados_red",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "happiny",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/happiny",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "haunter",
+   "dex": 93,
+   "form": null,
+   "path": "pokemon/haunter",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "heracross",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/heracross",
+   "frames": 5,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "hitmonchan",
+   "dex": 107,
+   "form": null,
+   "path": "pokemon/hitmonchan",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "hitmonlee",
+   "dex": 106,
+   "form": null,
+   "path": "pokemon/hitmonlee",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ho_oh",
+   "dex": 250,
+   "form": null,
+   "path": "pokemon/ho_oh",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "honchkrow",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/honchkrow",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "hoothoot",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/hoothoot",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "houndoom",
+   "dex": 229,
+   "form": null,
+   "path": "pokemon/houndoom",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "houndour",
+   "dex": 228,
+   "form": null,
+   "path": "pokemon/houndour",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "igglybuff",
+   "dex": 174,
+   "form": null,
+   "path": "pokemon/igglybuff",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ivysaur",
+   "dex": 2,
+   "form": null,
+   "path": "pokemon/ivysaur",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "jumpluff",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/jumpluff",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "jynx",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/jynx",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "kadabra",
+   "dex": 64,
+   "form": null,
+   "path": "pokemon/kadabra",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "kangaskhan",
+   "dex": 115,
+   "form": null,
+   "path": "pokemon/kangaskhan",
+   "frames": 11,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "kingdra",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/kingdra",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "kleavor",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/kleavor",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "koffing",
+   "dex": 109,
+   "form": null,
+   "path": "pokemon/koffing",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "krabby",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/krabby",
+   "frames": 8,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "lanturn",
+   "dex": 171,
+   "form": null,
+   "path": "pokemon/lanturn",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "larvitar",
+   "dex": 246,
+   "form": null,
+   "path": "pokemon/larvitar",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "leafeon",
+   "dex": 470,
+   "form": null,
+   "path": "pokemon/leafeon",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ledian",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/ledian",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "lickilicky",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/lickilicky",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "lickitung",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/lickitung",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magcargo",
+   "dex": 219,
+   "form": null,
+   "path": "pokemon/magcargo",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_bubbles",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_bubbles",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_calico1",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_calico1",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_calico2",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_calico2",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_calico3",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_calico3",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_dapples",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_dapples",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_diamonds",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_diamonds",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_forehead1",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_forehead1",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_forehead2",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_forehead2",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_mask1",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_mask1",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_mask2",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_mask2",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_orca",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_orca",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_patches",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_patches",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_plain",
+   "dex": 129,
+   "form": "plain",
+   "path": "pokemon/magikarp_plain",
+   "frames": 4,
+   "animated": false,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_raindrop",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_raindrop",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_saucy",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_saucy",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_skelly",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_skelly",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_stripe",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_stripe",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_tiger",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_tiger",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_twotone",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_twotone",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magikarp_zebra",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/magikarp_zebra",
+   "frames": 4,
+   "animated": false,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magmortar",
+   "dex": 467,
+   "form": null,
+   "path": "pokemon/magmortar",
+   "frames": 22,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magnemite",
+   "dex": 81,
+   "form": null,
+   "path": "pokemon/magnemite",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magneton",
+   "dex": 82,
+   "form": null,
+   "path": "pokemon/magneton",
+   "frames": 12,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "magnezone",
+   "dex": 462,
+   "form": null,
+   "path": "pokemon/magnezone",
+   "frames": 19,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mamoswine",
+   "dex": 473,
+   "form": null,
+   "path": "pokemon/mamoswine",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mankey",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/mankey",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mantine",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/mantine",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mantyke",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/mantyke",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "marill",
+   "dex": 183,
+   "form": null,
+   "path": "pokemon/marill",
+   "frames": 6,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "marowak_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/marowak_alolan",
+   "frames": 13,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "marowak_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/marowak_plain",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "meganium",
+   "dex": 154,
+   "form": null,
+   "path": "pokemon/meganium",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "meowth_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/meowth_alolan",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "meowth_galarian",
+   "dex": null,
+   "form": "galarian",
+   "path": "pokemon/meowth_galarian",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "meowth_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/meowth_plain",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mewtwo_armored",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/mewtwo_armored",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mewtwo_plain",
+   "dex": 150,
+   "form": "plain",
+   "path": "pokemon/mewtwo_plain",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mime_jr_",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/mime_jr_",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "misdreavus",
+   "dex": 200,
+   "form": null,
+   "path": "pokemon/misdreavus",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mismagius",
+   "dex": 429,
+   "form": null,
+   "path": "pokemon/mismagius",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "moltres_galarian",
+   "dex": 146,
+   "form": "galarian",
+   "path": "pokemon/moltres_galarian",
+   "frames": 16,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "moltres_plain",
+   "dex": 146,
+   "form": "plain",
+   "path": "pokemon/moltres_plain",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mr__mime_galarian",
+   "dex": null,
+   "form": "galarian",
+   "path": "pokemon/mr__mime_galarian",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mr__mime_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/mr__mime_plain",
+   "frames": 10,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "mr__rime",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/mr__rime",
+   "frames": 16,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "muk_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/muk_alolan",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "muk_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/muk_plain",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "munchlax",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/munchlax",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "natu",
+   "dex": 177,
+   "form": null,
+   "path": "pokemon/natu",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "nidoking",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/nidoking",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "nidoqueen",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/nidoqueen",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "nidorina",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/nidorina",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ninetales_alolan",
+   "dex": 38,
+   "form": "alolan",
+   "path": "pokemon/ninetales_alolan",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "noctowl",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/noctowl",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "octillery",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/octillery",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "overqwil",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/overqwil",
+   "frames": 12,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "paras",
+   "dex": 46,
+   "form": null,
+   "path": "pokemon/paras",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "perrserker",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/perrserker",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "persian_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/persian_alolan",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "persian_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/persian_plain",
+   "frames": 12,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "phanpy",
+   "dex": 231,
+   "form": null,
+   "path": "pokemon/phanpy",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pichu_plain",
+   "dex": 172,
+   "form": "plain",
+   "path": "pokemon/pichu_plain",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pichu_spiky",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/pichu_spiky",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pidgeot",
+   "dex": 18,
+   "form": null,
+   "path": "pokemon/pidgeot",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pidgeotto",
+   "dex": 17,
+   "form": null,
+   "path": "pokemon/pidgeotto",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pidgey",
+   "dex": 16,
+   "form": null,
+   "path": "pokemon/pidgey",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pikachu_chuchu",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/pikachu_chuchu",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pikachu_fly",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/pikachu_fly",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pikachu_pika",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/pikachu_pika",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pikachu_plain",
+   "dex": 25,
+   "form": "plain",
+   "path": "pokemon/pikachu_plain",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pikachu_spark",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/pikachu_spark",
+   "frames": 8,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "pikachu_surf",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/pikachu_surf",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "politoed",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/politoed",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "poliwhirl",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/poliwhirl",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "poliwrath",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/poliwrath",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ponyta_galarian",
+   "dex": 77,
+   "form": "galarian",
+   "path": "pokemon/ponyta_galarian",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ponyta_plain",
+   "dex": 77,
+   "form": "plain",
+   "path": "pokemon/ponyta_plain",
+   "frames": 8,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "porygon",
+   "dex": 137,
+   "form": null,
+   "path": "pokemon/porygon",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "porygon2",
+   "dex": 233,
+   "form": null,
+   "path": "pokemon/porygon2",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "porygon_z",
+   "dex": 474,
+   "form": null,
+   "path": "pokemon/porygon_z",
+   "frames": 14,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "psyduck",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/psyduck",
+   "frames": 5,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "quilava",
+   "dex": 156,
+   "form": null,
+   "path": "pokemon/quilava",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "qwilfish_hisuian",
+   "dex": null,
+   "form": "hisuian",
+   "path": "pokemon/qwilfish_hisuian",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "qwilfish_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/qwilfish_plain",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "raichu_alolan",
+   "dex": 26,
+   "form": "alolan",
+   "path": "pokemon/raichu_alolan",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "raichu_plain",
+   "dex": 26,
+   "form": "plain",
+   "path": "pokemon/raichu_plain",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "raikou",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/raikou",
+   "frames": 8,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "rapidash_galarian",
+   "dex": 78,
+   "form": "galarian",
+   "path": "pokemon/rapidash_galarian",
+   "frames": 14,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "raticate_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/raticate_alolan",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "rattata_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/rattata_alolan",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "rattata_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/rattata_plain",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "remoraid",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/remoraid",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "rhydon",
+   "dex": 112,
+   "form": null,
+   "path": "pokemon/rhydon",
+   "frames": 8,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "rhyperior",
+   "dex": 464,
+   "form": null,
+   "path": "pokemon/rhyperior",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sandshrew_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/sandshrew_alolan",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sandslash_alolan",
+   "dex": null,
+   "form": "alolan",
+   "path": "pokemon/sandslash_alolan",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sandslash_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/sandslash_plain",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "scyther",
+   "dex": 123,
+   "form": null,
+   "path": "pokemon/scyther",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "seadra",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/seadra",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "seaking",
+   "dex": 119,
+   "form": null,
+   "path": "pokemon/seaking",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "seel",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/seel",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "shellder",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/shellder",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sirfetch_d",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/sirfetch_d",
+   "frames": 12,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "skarmory",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/skarmory",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "skiploom",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/skiploom",
+   "frames": 7,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "slowbro_galarian",
+   "dex": 80,
+   "form": "galarian",
+   "path": "pokemon/slowbro_galarian",
+   "frames": 15,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "slowbro_plain",
+   "dex": 80,
+   "form": "plain",
+   "path": "pokemon/slowbro_plain",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "slowking_galarian",
+   "dex": 199,
+   "form": "galarian",
+   "path": "pokemon/slowking_galarian",
+   "frames": 12,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "slowking_plain",
+   "dex": 199,
+   "form": "plain",
+   "path": "pokemon/slowking_plain",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "slowpoke_galarian",
+   "dex": 79,
+   "form": "galarian",
+   "path": "pokemon/slowpoke_galarian",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "slowpoke_plain",
+   "dex": 79,
+   "form": "plain",
+   "path": "pokemon/slowpoke_plain",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "slugma",
+   "dex": 218,
+   "form": null,
+   "path": "pokemon/slugma",
+   "frames": 10,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "smeargle",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/smeargle",
+   "frames": 12,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "smoochum",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/smoochum",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sneasel_hisuian",
+   "dex": 215,
+   "form": "hisuian",
+   "path": "pokemon/sneasel_hisuian",
+   "frames": 10,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sneasel_plain",
+   "dex": 215,
+   "form": "plain",
+   "path": "pokemon/sneasel_plain",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sneasler",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/sneasler",
+   "frames": 14,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "spearow",
+   "dex": 21,
+   "form": null,
+   "path": "pokemon/spearow",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "squirtle",
+   "dex": 7,
+   "form": null,
+   "path": "pokemon/squirtle",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "stantler",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/stantler",
+   "frames": 5,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "starmie",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/starmie",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "staryu",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/staryu",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sunflora",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/sunflora",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "swinub",
+   "dex": 220,
+   "form": null,
+   "path": "pokemon/swinub",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "sylveon",
+   "dex": 700,
+   "form": null,
+   "path": "pokemon/sylveon",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "tangrowth",
+   "dex": 465,
+   "form": null,
+   "path": "pokemon/tangrowth",
+   "frames": 8,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "tauros_paldean",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/tauros_paldean",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "tauros_paldean_fire",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/tauros_paldean_fire",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "tauros_paldean_water",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/tauros_paldean_water",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "teddiursa",
+   "dex": 216,
+   "form": null,
+   "path": "pokemon/teddiursa",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "tentacruel",
+   "dex": 73,
+   "form": null,
+   "path": "pokemon/tentacruel",
+   "frames": 5,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "togekiss",
+   "dex": 468,
+   "form": null,
+   "path": "pokemon/togekiss",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "togepi",
+   "dex": 175,
+   "form": null,
+   "path": "pokemon/togepi",
+   "frames": 3,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "togetic",
+   "dex": 176,
+   "form": null,
+   "path": "pokemon/togetic",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "typhlosion_hisuian",
+   "dex": 157,
+   "form": "hisuian",
+   "path": "pokemon/typhlosion_hisuian",
+   "frames": 18,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "tyranitar",
+   "dex": 248,
+   "form": null,
+   "path": "pokemon/tyranitar",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "umbreon",
+   "dex": 197,
+   "form": null,
+   "path": "pokemon/umbreon",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "unown_exclamation",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/unown_exclamation",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "unown_question",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/unown_question",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": false,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "unown_u",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/unown_u",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": false,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ursaluna_bloodmoon",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/ursaluna_bloodmoon",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ursaluna_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/ursaluna_plain",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "ursaring",
+   "dex": 217,
+   "form": null,
+   "path": "pokemon/ursaring",
+   "frames": 9,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "vaporeon",
+   "dex": 134,
+   "form": null,
+   "path": "pokemon/vaporeon",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "venomoth",
+   "dex": 49,
+   "form": null,
+   "path": "pokemon/venomoth",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "victreebel",
+   "dex": 71,
+   "form": null,
+   "path": "pokemon/victreebel",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "voltorb_hisuian",
+   "dex": null,
+   "form": "hisuian",
+   "path": "pokemon/voltorb_hisuian",
+   "frames": 13,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "voltorb_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/voltorb_plain",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "vulpix_alolan",
+   "dex": 37,
+   "form": "alolan",
+   "path": "pokemon/vulpix_alolan",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "weavile",
+   "dex": 461,
+   "form": null,
+   "path": "pokemon/weavile",
+   "frames": 9,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "weedle",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/weedle",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "weepinbell",
+   "dex": 70,
+   "form": null,
+   "path": "pokemon/weepinbell",
+   "frames": 4,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "weezing_galarian",
+   "dex": 110,
+   "form": "galarian",
+   "path": "pokemon/weezing_galarian",
+   "frames": 14,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "weezing_plain",
+   "dex": 110,
+   "form": "plain",
+   "path": "pokemon/weezing_plain",
+   "frames": 8,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "wigglytuff",
+   "dex": 40,
+   "form": null,
+   "path": "pokemon/wigglytuff",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "wooper_paldean",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/wooper_paldean",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "wooper_plain",
+   "dex": null,
+   "form": "plain",
+   "path": "pokemon/wooper_plain",
+   "frames": 5,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "wynaut",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/wynaut",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "wyrdeer",
+   "dex": null,
+   "form": null,
+   "path": "pokemon/wyrdeer",
+   "frames": 12,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "xatu",
+   "dex": 178,
+   "form": null,
+   "path": "pokemon/xatu",
+   "frames": 6,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    48,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "yanma",
+   "dex": 193,
+   "form": null,
+   "path": "pokemon/yanma",
+   "frames": 11,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "yanmega",
+   "dex": 469,
+   "form": null,
+   "path": "pokemon/yanmega",
+   "frames": 12,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "zapdos_galarian",
+   "dex": 145,
+   "form": "galarian",
+   "path": "pokemon/zapdos_galarian",
+   "frames": 7,
+   "animated": true,
+   "has_back": true,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon."
+  },
+  {
+   "type": "pokemon",
+   "slug": "zapdos_plain",
+   "dex": 145,
+   "form": "plain",
+   "path": "pokemon/zapdos_plain",
+   "frames": 5,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    56,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "pokemon",
+   "slug": "zubat",
+   "dex": 41,
+   "form": null,
+   "path": "pokemon/zubat",
+   "frames": 4,
+   "animated": true,
+   "has_back": false,
+   "has_shiny": true,
+   "native_size": [
+    40,
+    40
+   ],
+   "original_species": false,
+   "notes": "Copied from Polished Crystal source gfx/pokemon. Back sprite omitted: identical to Pokémon Crystal."
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_veteran_f",
+   "path": "trainers/trainers_veteran_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_piers",
+   "path": "trainers/trainers_piers",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_grunt_m",
+   "path": "trainers/trainers_grunt_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_ace_duo",
+   "path": "trainers/trainers_ace_duo",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_gentleman",
+   "path": "trainers/trainers_gentleman",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_officer_f",
+   "path": "trainers/trainers_officer_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_erika",
+   "path": "trainers/trainers_erika",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_engineer",
+   "path": "trainers/trainers_engineer",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_flannery",
+   "path": "trainers/trainers_flannery",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_lawrence",
+   "path": "trainers/trainers_lawrence",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_steven",
+   "path": "trainers/trainers_steven",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_medium",
+   "path": "trainers/trainers_medium",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_ruin_maniac",
+   "path": "trainers/trainers_ruin_maniac",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_rival2",
+   "path": "trainers/trainers_rival2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_towertycoon",
+   "path": "trainers/trainers_towertycoon",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_valerie",
+   "path": "trainers/trainers_valerie",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_lorelei",
+   "path": "trainers/trainers_lorelei",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_burglar",
+   "path": "trainers/trainers_burglar",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_tamer",
+   "path": "trainers/trainers_tamer",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_roughneck",
+   "path": "trainers/trainers_roughneck",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_bugsy",
+   "path": "trainers/trainers_bugsy",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_koga",
+   "path": "trainers/trainers_koga",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_oak",
+   "path": "trainers/trainers_oak",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_nurse",
+   "path": "trainers/trainers_nurse",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_brock",
+   "path": "trainers/trainers_brock",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_yellow",
+   "path": "trainers/trainers_yellow",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_scientist",
+   "path": "trainers/trainers_scientist",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_kukui",
+   "path": "trainers/trainers_kukui",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_ivy",
+   "path": "trainers/trainers_ivy",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_karate_king",
+   "path": "trainers/trainers_karate_king",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_waiter",
+   "path": "trainers/trainers_waiter",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_kabutops_fossil",
+   "path": "trainers/trainers_kabutops_fossil",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_meteorite",
+   "path": "trainers/trainers_meteorite",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_dragon_tamer",
+   "path": "trainers/trainers_dragon_tamer",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_teacher_f",
+   "path": "trainers/trainers_teacher_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_marlon",
+   "path": "trainers/trainers_marlon",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_katy",
+   "path": "trainers/trainers_katy",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_giovanni",
+   "path": "trainers/trainers_giovanni",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_bruno",
+   "path": "trainers/trainers_bruno",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_pryce",
+   "path": "trainers/trainers_pryce",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_breeder",
+   "path": "trainers/trainers_breeder",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_karen",
+   "path": "trainers/trainers_karen",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_blackbelt_t",
+   "path": "trainers/trainers_blackbelt_t",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_silhouette",
+   "path": "trainers/trainers_silhouette",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_blaine",
+   "path": "trainers/trainers_blaine",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_schoolgirl",
+   "path": "trainers/trainers_schoolgirl",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_elm",
+   "path": "trainers/trainers_elm",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_will",
+   "path": "trainers/trainers_will",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_pokefan_f",
+   "path": "trainers/trainers_pokefan_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_sightseers",
+   "path": "trainers/trainers_sightseers",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_sr_and_jr",
+   "path": "trainers/trainers_sr_and_jr",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_archer",
+   "path": "trainers/trainers_archer",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_lyra1",
+   "path": "trainers/trainers_lyra1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_swimmer_m",
+   "path": "trainers/trainers_swimmer_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_clair",
+   "path": "trainers/trainers_clair",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_bird_keeper",
+   "path": "trainers/trainers_bird_keeper",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_victor",
+   "path": "trainers/trainers_victor",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_cooltrainer_m",
+   "path": "trainers/trainers_cooltrainer_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_beauty",
+   "path": "trainers/trainers_beauty",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_sightseer_f",
+   "path": "trainers/trainers_sightseer_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_carrie",
+   "path": "trainers/trainers_carrie",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_rival1",
+   "path": "trainers/trainers_rival1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_sightseer_m",
+   "path": "trainers/trainers_sightseer_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_anabel",
+   "path": "trainers/trainers_anabel",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_skier",
+   "path": "trainers/trainers_skier",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_factoryhead",
+   "path": "trainers/trainers_factoryhead",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_guitarist_f",
+   "path": "trainers/trainers_guitarist_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_guitarist_m",
+   "path": "trainers/trainers_guitarist_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_bug_maniac",
+   "path": "trainers/trainers_bug_maniac",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_lt_surge",
+   "path": "trainers/trainers_lt_surge",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_artist",
+   "path": "trainers/trainers_artist",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_veteran_m",
+   "path": "trainers/trainers_veteran_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_bug_catcher",
+   "path": "trainers/trainers_bug_catcher",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_inver",
+   "path": "trainers/trainers_inver",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_marley",
+   "path": "trainers/trainers_marley",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_teacher_m",
+   "path": "trainers/trainers_teacher_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_jasmine",
+   "path": "trainers/trainers_jasmine",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_hiker",
+   "path": "trainers/trainers_hiker",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_cynthia",
+   "path": "trainers/trainers_cynthia",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_bill",
+   "path": "trainers/trainers_bill",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_aroma_lady",
+   "path": "trainers/trainers_aroma_lady",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_biker",
+   "path": "trainers/trainers_biker",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_agatha",
+   "path": "trainers/trainers_agatha",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_falkner",
+   "path": "trainers/trainers_falkner",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_picnicker",
+   "path": "trainers/trainers_picnicker",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_rich_boy",
+   "path": "trainers/trainers_rich_boy",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_firebreather",
+   "path": "trainers/trainers_firebreather",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_couple",
+   "path": "trainers/trainers_couple",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_aerodactyl_fossil",
+   "path": "trainers/trainers_aerodactyl_fossil",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_whitney",
+   "path": "trainers/trainers_whitney",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_swimmer_f",
+   "path": "trainers/trainers_swimmer_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_spark",
+   "path": "trainers/trainers_spark",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_lass",
+   "path": "trainers/trainers_lass",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_buck",
+   "path": "trainers/trainers_buck",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_rei",
+   "path": "trainers/trainers_rei",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_candela",
+   "path": "trainers/trainers_candela",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_boarder",
+   "path": "trainers/trainers_boarder",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_champion",
+   "path": "trainers/trainers_champion",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_sabrina",
+   "path": "trainers/trainers_sabrina",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_battle_girl",
+   "path": "trainers/trainers_battle_girl",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_camper",
+   "path": "trainers/trainers_camper",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_jacky",
+   "path": "trainers/trainers_jacky",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_blue",
+   "path": "trainers/trainers_blue",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_mysticalman",
+   "path": "trainers/trainers_mysticalman",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_morty",
+   "path": "trainers/trainers_morty",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_jessie_james",
+   "path": "trainers/trainers_jessie_james",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_misty",
+   "path": "trainers/trainers_misty",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_elder",
+   "path": "trainers/trainers_elder",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_psychic_t",
+   "path": "trainers/trainers_psychic_t",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_schoolboy",
+   "path": "trainers/trainers_schoolboy",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_grunt_f",
+   "path": "trainers/trainers_grunt_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_pi",
+   "path": "trainers/trainers_pi",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_cooltrainer_f",
+   "path": "trainers/trainers_cooltrainer_f",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_maylene",
+   "path": "trainers/trainers_maylene",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_janine",
+   "path": "trainers/trainers_janine",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_juggler",
+   "path": "trainers/trainers_juggler",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_fisher",
+   "path": "trainers/trainers_fisher",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_ariana",
+   "path": "trainers/trainers_ariana",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_chuck",
+   "path": "trainers/trainers_chuck",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_cheryl",
+   "path": "trainers/trainers_cheryl",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_blanche",
+   "path": "trainers/trainers_blanche",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_cowgirl",
+   "path": "trainers/trainers_cowgirl",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_hex_maniac",
+   "path": "trainers/trainers_hex_maniac",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_petrel",
+   "path": "trainers/trainers_petrel",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_sage",
+   "path": "trainers/trainers_sage",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_red",
+   "path": "trainers/trainers_red",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_lyra2",
+   "path": "trainers/trainers_lyra2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_omastar_fossil",
+   "path": "trainers/trainers_omastar_fossil",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_darach",
+   "path": "trainers/trainers_darach",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_proton",
+   "path": "trainers/trainers_proton",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_baker",
+   "path": "trainers/trainers_baker",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_lady",
+   "path": "trainers/trainers_lady",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_mira",
+   "path": "trainers/trainers_mira",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_kimono_girl",
+   "path": "trainers/trainers_kimono_girl",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_sailor",
+   "path": "trainers/trainers_sailor",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_cubone_armor",
+   "path": "trainers/trainers_cubone_armor",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_officer_m",
+   "path": "trainers/trainers_officer_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_leaf",
+   "path": "trainers/trainers_leaf",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_walker",
+   "path": "trainers/trainers_walker",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_pokefan_m",
+   "path": "trainers/trainers_pokefan_m",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_waitress",
+   "path": "trainers/trainers_waitress",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_super_nerd",
+   "path": "trainers/trainers_super_nerd",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_imakuni",
+   "path": "trainers/trainers_imakuni",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_riley",
+   "path": "trainers/trainers_riley",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_pokemaniac",
+   "path": "trainers/trainers_pokemaniac",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_youngster",
+   "path": "trainers/trainers_youngster",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_cosplayer",
+   "path": "trainers/trainers_cosplayer",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_soldier",
+   "path": "trainers/trainers_soldier",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_caitlin",
+   "path": "trainers/trainers_caitlin",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_twins",
+   "path": "trainers/trainers_twins",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "trainer",
+   "slug": "trainers_cal",
+   "path": "trainers/trainers_cal",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_shadow",
+   "path": "overworld/overworld_shadow",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_kris_surf_fish",
+   "path": "overworld/overworld_kris_surf_fish",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_headbutt_tree",
+   "path": "overworld/overworld_headbutt_tree",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_boulder_dust",
+   "path": "overworld/overworld_boulder_dust",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_crys_fish",
+   "path": "overworld/overworld_crys_fish",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_trainer_battle_pokeball_tile",
+   "path": "overworld/overworld_trainer_battle_pokeball_tile",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_kris_fish",
+   "path": "overworld/overworld_kris_fish",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_headbutt_tree_2",
+   "path": "overworld/overworld_headbutt_tree_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_crys_surf_fish",
+   "path": "overworld/overworld_crys_surf_fish",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_chris_surf_fish",
+   "path": "overworld/overworld_chris_surf_fish",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_heal_machine",
+   "path": "overworld/overworld_heal_machine",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_celebi",
+   "path": "overworld/overworld_celebi",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_chris_fish",
+   "path": "overworld/overworld_chris_fish",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_rain_splash",
+   "path": "overworld/overworld_rain_splash",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_sand",
+   "path": "overworld/overworld_sand",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_cut_grass",
+   "path": "overworld/overworld_cut_grass",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_snow",
+   "path": "overworld/overworld_snow",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_fishing_rod",
+   "path": "overworld/overworld_fishing_rod",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_cut_tree",
+   "path": "overworld/overworld_cut_tree",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_shaking_grass",
+   "path": "overworld/overworld_shaking_grass",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "overworld",
+   "slug": "overworld_puddle_splash",
+   "path": "overworld/overworld_puddle_splash",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tiny_shore",
+   "path": "tilesets/tilesets_tiny_shore",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_johto_common",
+   "path": "tilesets/tilesets_johto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tiny_water",
+   "path": "tilesets/tilesets_tiny_water",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_museum",
+   "path": "tilesets/tilesets_museum",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lcd_2",
+   "path": "tilesets/tilesets_lcd_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_water_faraway_water_1",
+   "path": "tilesets/tilesets_water_faraway_water_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lcd_8",
+   "path": "tilesets/tilesets_lcd_8",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_kanto_house",
+   "path": "tilesets/tilesets_kanto_house",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_roofs_olivine",
+   "path": "tilesets/tilesets_roofs_olivine",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_kanto_flower_1",
+   "path": "tilesets/tilesets_kanto_flower_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest_tree_1",
+   "path": "tilesets/tilesets_forest_tree_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_roofs_new_bark",
+   "path": "tilesets/tilesets_roofs_new_bark",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_traditional_house",
+   "path": "tilesets/tilesets_traditional_house",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_fountain_1",
+   "path": "tilesets/tilesets_fountain_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_water_kanto_water",
+   "path": "tilesets/tilesets_water_kanto_water",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_roofs_violet",
+   "path": "tilesets/tilesets_roofs_violet",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_alph_word_room",
+   "path": "tilesets/tilesets_alph_word_room",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lcd_3",
+   "path": "tilesets/tilesets_lcd_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_5",
+   "path": "tilesets/tilesets_tower_pillar_5",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lcd_5",
+   "path": "tilesets/tilesets_lcd_5",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_johto_house",
+   "path": "tilesets/tilesets_johto_house",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_flower_2",
+   "path": "tilesets/tilesets_flower_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_10",
+   "path": "tilesets/tilesets_tower_pillar_10",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_fountain_2",
+   "path": "tilesets/tilesets_fountain_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest_tree_2_3",
+   "path": "tilesets/tilesets_forest_tree_2_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_shamouti_island",
+   "path": "tilesets/tilesets_shamouti_island",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_magnet_train",
+   "path": "tilesets/tilesets_magnet_train",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_battle_tower_inside",
+   "path": "tilesets/tilesets_battle_tower_inside",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_facility",
+   "path": "tilesets/tilesets_facility",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_6",
+   "path": "tilesets/tilesets_tower_pillar_6",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_1",
+   "path": "tilesets/tilesets_tower_pillar_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_snowtop_mountain",
+   "path": "tilesets/tilesets_snowtop_mountain",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_ruins_of_alph",
+   "path": "tilesets/tilesets_ruins_of_alph",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lava_4",
+   "path": "tilesets/tilesets_lava_4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_park",
+   "path": "tilesets/tilesets_park",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_ecruteak_shrine_johto_common",
+   "path": "tilesets/tilesets_ecruteak_shrine_johto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_hotel",
+   "path": "tilesets/tilesets_hotel",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest",
+   "path": "tilesets/tilesets_forest",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_roofs_azalea",
+   "path": "tilesets/tilesets_roofs_azalea",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_fountain_3",
+   "path": "tilesets/tilesets_fountain_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lava_1",
+   "path": "tilesets/tilesets_lava_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_whirlpool_1",
+   "path": "tilesets/tilesets_whirlpool_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_3",
+   "path": "tilesets/tilesets_tower_pillar_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_cave",
+   "path": "tilesets/tilesets_cave",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_8",
+   "path": "tilesets/tilesets_tower_pillar_8",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lcd_7",
+   "path": "tilesets/tilesets_lcd_7",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest_tree_4",
+   "path": "tilesets/tilesets_forest_tree_4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tunnel",
+   "path": "tilesets/tilesets_tunnel",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_champions_room",
+   "path": "tilesets/tilesets_champions_room",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_battle_tower_outside_johto_common",
+   "path": "tilesets/tilesets_battle_tower_outside_johto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_pokemon_mansion",
+   "path": "tilesets/tilesets_pokemon_mansion",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_radio_tower",
+   "path": "tilesets/tilesets_radio_tower",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_gate",
+   "path": "tilesets/tilesets_gate",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_underground",
+   "path": "tilesets/tilesets_underground",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_fountain_4",
+   "path": "tilesets/tilesets_fountain_4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_rain_rain_puddle",
+   "path": "tilesets/tilesets_rain_rain_puddle",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_valencia_island",
+   "path": "tilesets/tilesets_valencia_island",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_pokecenter",
+   "path": "tilesets/tilesets_pokecenter",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_rain_rain_water",
+   "path": "tilesets/tilesets_rain_rain_water",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_quiet_cave",
+   "path": "tilesets/tilesets_quiet_cave",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest_tree_2_2",
+   "path": "tilesets/tilesets_forest_tree_2_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lava_3",
+   "path": "tilesets/tilesets_lava_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_water_faraway_water_2",
+   "path": "tilesets/tilesets_water_faraway_water_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_kanto_flower_3",
+   "path": "tilesets/tilesets_kanto_flower_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_ice_path",
+   "path": "tilesets/tilesets_ice_path",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lab",
+   "path": "tilesets/tilesets_lab",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_9",
+   "path": "tilesets/tilesets_tower_pillar_9",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_water_johto_water",
+   "path": "tilesets/tilesets_water_johto_water",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_spinner_2",
+   "path": "tilesets/tilesets_spinner_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_kanto_kanto_common",
+   "path": "tilesets/tilesets_kanto_kanto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_pokecom_center",
+   "path": "tilesets/tilesets_pokecom_center",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_battle_factory",
+   "path": "tilesets/tilesets_battle_factory",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_faraway_island",
+   "path": "tilesets/tilesets_faraway_island",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_gym",
+   "path": "tilesets/tilesets_gym",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lava_2",
+   "path": "tilesets/tilesets_lava_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_celadon_mansion",
+   "path": "tilesets/tilesets_celadon_mansion",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_johto_traditional_johto_common",
+   "path": "tilesets/tilesets_johto_traditional_johto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lighthouse",
+   "path": "tilesets/tilesets_lighthouse",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_whirlpool_4",
+   "path": "tilesets/tilesets_whirlpool_4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lcd_1",
+   "path": "tilesets/tilesets_lcd_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest_tree_3",
+   "path": "tilesets/tilesets_forest_tree_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_safari_zone",
+   "path": "tilesets/tilesets_safari_zone",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_whirlpool_2",
+   "path": "tilesets/tilesets_whirlpool_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest_tree_2_4",
+   "path": "tilesets/tilesets_forest_tree_2_4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_johto_overcast_johto_common",
+   "path": "tilesets/tilesets_johto_overcast_johto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_roofs_statue",
+   "path": "tilesets/tilesets_roofs_statue",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_sprout_tower",
+   "path": "tilesets/tilesets_sprout_tower",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_7",
+   "path": "tilesets/tilesets_tower_pillar_7",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lcd_6",
+   "path": "tilesets/tilesets_lcd_6",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_2",
+   "path": "tilesets/tilesets_tower_pillar_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_flower_1",
+   "path": "tilesets/tilesets_flower_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_indigo_plateau_kanto_common",
+   "path": "tilesets/tilesets_indigo_plateau_kanto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_kanto_flower_2",
+   "path": "tilesets/tilesets_kanto_flower_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_lcd_4",
+   "path": "tilesets/tilesets_lcd_4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_spinner_1",
+   "path": "tilesets/tilesets_spinner_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_fountain_5",
+   "path": "tilesets/tilesets_fountain_5",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tiny_pier",
+   "path": "tilesets/tilesets_tiny_pier",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_kanto_common",
+   "path": "tilesets/tilesets_kanto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_whirlpool_3",
+   "path": "tilesets/tilesets_whirlpool_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_port",
+   "path": "tilesets/tilesets_port",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_game_corner",
+   "path": "tilesets/tilesets_game_corner",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_johto_modern_johto_common",
+   "path": "tilesets/tilesets_johto_modern_johto_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest_tree_2",
+   "path": "tilesets/tilesets_forest_tree_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_tower_pillar_4",
+   "path": "tilesets/tilesets_tower_pillar_4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_forest_tree_2_1",
+   "path": "tilesets/tilesets_forest_tree_2_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_mart",
+   "path": "tilesets/tilesets_mart",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "tileset",
+   "slug": "tilesets_home_decor_store",
+   "path": "tilesets/tilesets_home_decor_store",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_background",
+   "path": "ui/intro_background",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_vwf_bw",
+   "path": "ui/font_vwf_bw",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_substitute_back",
+   "path": "ui/battle_substitute_back",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_johto_leaders",
+   "path": "ui/trainer_card_johto_leaders",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_x1",
+   "path": "ui/pack_pack_x1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "new_game_shrink1",
+   "path": "ui/new_game_shrink1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_10",
+   "path": "ui/frames_10",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_f0",
+   "path": "ui/pack_pack_f0",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_m3",
+   "path": "ui/pack_pack_m3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "stats_judge",
+   "path": "ui/stats_judge",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_johto_badges",
+   "path": "ui/trainer_card_johto_badges",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_grass3",
+   "path": "ui/intro_grass3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pc_pc",
+   "path": "ui/pc_pc",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_m0",
+   "path": "ui/pack_pack_m0",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_x0",
+   "path": "ui/pack_pack_x0",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_x3",
+   "path": "ui/pack_pack_x3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_hpexpbars",
+   "path": "ui/battle_hpexpbars",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_x2",
+   "path": "ui/pack_pack_x2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_pulse",
+   "path": "ui/intro_pulse",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_f4",
+   "path": "ui/pack_pack_f4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_balls",
+   "path": "ui/battle_balls",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_unown_back",
+   "path": "ui/intro_unown_back",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_5",
+   "path": "ui/frames_5",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pokedex_oam",
+   "path": "ui/pokedex_oam",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_8",
+   "path": "ui/frames_8",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "stats_summary",
+   "path": "ui/stats_summary",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_badges",
+   "path": "ui/trainer_card_badges",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_7",
+   "path": "ui/frames_7",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_1",
+   "path": "ui/frames_1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pc_modes",
+   "path": "ui/pc_modes",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_f2",
+   "path": "ui/pack_pack_f2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pokedex_pokedex1",
+   "path": "ui/pokedex_pokedex1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_status",
+   "path": "ui/trainer_card_status",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "title_logo",
+   "path": "ui/title_logo",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pokedex_pokedex0",
+   "path": "ui/pokedex_pokedex0",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_categories",
+   "path": "ui/battle_categories",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_f1",
+   "path": "ui/pack_pack_f1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_lyra_back",
+   "path": "ui/battle_lyra_back",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_suicune_jump",
+   "path": "ui/intro_suicune_jump",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_m2",
+   "path": "ui/pack_pack_m2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_m4",
+   "path": "ui/pack_pack_m4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pokedex_question_mark",
+   "path": "ui/pokedex_question_mark",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_11",
+   "path": "ui/frames_11",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_x4",
+   "path": "ui/pack_pack_x4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "title_crystal",
+   "path": "ui/title_crystal",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_19",
+   "path": "ui/frames_19",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pokedex_area",
+   "path": "ui/pokedex_area",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_micr",
+   "path": "ui/font_micr",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_space",
+   "path": "ui/font_space",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "logo_pocket",
+   "path": "ui/logo_pocket",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_4",
+   "path": "ui/frames_4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_f5",
+   "path": "ui/pack_pack_f5",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "new_game_init_bg",
+   "path": "ui/new_game_init_bg",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_border",
+   "path": "ui/trainer_card_border",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "new_game_intro_gradient",
+   "path": "ui/new_game_intro_gradient",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_crystal_unowns",
+   "path": "ui/intro_crystal_unowns",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_bold",
+   "path": "ui/font_bold",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "stats_status",
+   "path": "ui/stats_status",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_kanto_badges",
+   "path": "ui/trainer_card_kanto_badges",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "stats_summary_sprites",
+   "path": "ui/stats_summary_sprites",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_suicune_close",
+   "path": "ui/intro_suicune_close",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_14",
+   "path": "ui/frames_14",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_unown",
+   "path": "ui/font_unown",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_divider",
+   "path": "ui/trainer_card_divider",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_2",
+   "path": "ui/frames_2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_ghost",
+   "path": "ui/battle_ghost",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_space_bw",
+   "path": "ui/font_space_bw",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_3",
+   "path": "ui/frames_3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_status",
+   "path": "ui/battle_status",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "title_suicune",
+   "path": "ui/title_suicune",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_chicago",
+   "path": "ui/font_chicago",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_9",
+   "path": "ui/frames_9",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_15",
+   "path": "ui/frames_15",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_grass1",
+   "path": "ui/intro_grass1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_suicune_run",
+   "path": "ui/intro_suicune_run",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_kris_card",
+   "path": "ui/trainer_card_kris_card",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_17",
+   "path": "ui/frames_17",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pc_cursor",
+   "path": "ui/pc_cursor",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pc_bags",
+   "path": "ui/pc_bags",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_vwf",
+   "path": "ui/font_vwf",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_serif",
+   "path": "ui/font_serif",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_grass4",
+   "path": "ui/intro_grass4",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_pichu_wooper",
+   "path": "ui/intro_pichu_wooper",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_unowns",
+   "path": "ui/intro_unowns",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_common",
+   "path": "ui/font_common",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "new_game_shrink2",
+   "path": "ui/new_game_shrink2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_top",
+   "path": "ui/pack_pack_top",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_grass2",
+   "path": "ui/intro_grass2",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "intro_suicune_back",
+   "path": "ui/intro_suicune_back",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "stats_balls",
+   "path": "ui/stats_balls",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_types",
+   "path": "ui/battle_types",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_substitute_front",
+   "path": "ui/battle_substitute_front",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_m1",
+   "path": "ui/pack_pack_m1",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "battle_status_enemy",
+   "path": "ui/battle_status_enemy",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_f3",
+   "path": "ui/pack_pack_f3",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pokedex_slowpoke",
+   "path": "ui/pokedex_slowpoke",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_narrow",
+   "path": "ui/font_narrow",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_italic",
+   "path": "ui/font_italic",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_6",
+   "path": "ui/frames_6",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_chris_card",
+   "path": "ui/trainer_card_chris_card",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "title_version",
+   "path": "ui/title_version",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_12",
+   "path": "ui/frames_12",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_crys_card",
+   "path": "ui/trainer_card_crys_card",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_m5",
+   "path": "ui/pack_pack_m5",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_16",
+   "path": "ui/frames_16",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_13",
+   "path": "ui/frames_13",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_left",
+   "path": "ui/pack_pack_left",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_20",
+   "path": "ui/frames_20",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "pack_pack_x5",
+   "path": "ui/pack_pack_x5",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "font_normal",
+   "path": "ui/font_normal",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "frames_18",
+   "path": "ui/frames_18",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  },
+  {
+   "type": "ui",
+   "slug": "trainer_card_kanto_leaders",
+   "path": "ui/trainer_card_kanto_leaders",
+   "frames": 1,
+   "notes": "Polished Crystal v3.2.3 source graphics"
+  }
+ ]
+}
